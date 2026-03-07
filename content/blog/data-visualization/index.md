@@ -9,7 +9,7 @@ tags:
   - Hugo Blox
   - Markdown
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  image: pretty-beautiful-woman-with-blonde-long-hair-having-excited-happy-facial-expression.jpg
   position:
     x: 50
     y: 40
@@ -23,8 +23,6 @@ cover:
     height: "80px"
   icon:
     name: "✨"
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
@@ -53,11 +51,11 @@ Custom embed with manual data
 
 Embed beautiful images from any source with Hugo image processing (Unsplash, custom URLs, etc.):
 
-{{< embed url="https://example.com" title="Data Visualization Guide" description="Beautiful data visualization workspace" image="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800&h=600&auto=format&fit=crop" width="800" height="600" quality="90" >}}
+{{< embed url="https://example.com" title="Data Visualization Guide" description="Beautiful data visualization workspace">}}
 
 You can also add images to any platform embed:
 
-{{< embed platform="github" resource="plotly/plotly.py" type="repo" image="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&auto=format&fit=crop" width="600" height="400" >}}
+{{< embed platform="github" resource="plotly/plotly.py" type="repo" >}}
 
 ## Charts
 
