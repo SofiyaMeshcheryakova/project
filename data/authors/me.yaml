@@ -15,24 +15,17 @@ bio: |
   Студенктка направления Прикладная информатика в Российском университете дружбы народов
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: РУДН
 
 links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
     url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    
 interests:
   - Programming
   - Machine Learning
@@ -45,51 +38,48 @@ education:
     end: 2029-06-30
  
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Студент направления прикладная информатика
+    org: РУДН
+    start: 2025-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Обучение на программе бакалавкиата Факультета Физико-Математический и Естественных наук РУДН
+  - role: Прохождение курса программирования на python
+    org: Яндекс Лицей
+    start: 2023-10-01
+    end: 2024-05-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+      Изучение основ программирования на python.
+      
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Программирование на Python
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: Программирование на C++
         level: 4
+      - label: Работа с базами данных
+        level: 3
   - name: Research & Communication
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Академическое письмо
         level: 4
-      - label: Grant Proposals
+      - label: Научные презентации
         level: 4
 
 languages:
-  - name: English
+  - name: Русский
     level: 5
     label: Native
-  - name: Spanish
+  - name: Английский
     level: 4
     label: Fluent
+  - name: Китайский
+    level: 2
+    label: Beginner
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+##awards:
+#  - title: Best Paper Award
+ #   awarder: NeurIPS
+  #  date: "2022-12-01"
+   # summary: Awarded for groundbreaking work on efficient training of large models.
+    #icon: hero/trophy
