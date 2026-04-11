@@ -146,7 +146,7 @@ def example():
 - 10x faster inference
 - Lower memory usage
 
-{{< fragment >}}**Breakthrough!**{{< /fragment >}}
+#{{< fragment >}}**Breakthrough!**{{< /fragment >}}
 
 </div>
 
@@ -173,13 +173,13 @@ Note:
 
 Content appears step-by-step:
 
-{{< fragment >}}First point appears{{< /fragment >}}
+#{{< fragment >}}First point appears{{< /fragment >}}
 
-{{< fragment >}}Then the second point{{< /fragment >}}
+#{{< fragment >}}Then the second point{{< /fragment >}}
 
-{{< fragment >}}Finally the conclusion{{< /fragment >}}
+#{{< fragment >}}Finally the conclusion{{< /fragment >}}
 
-{{< fragment class="highlight-red" >}}This one can be **highlighted**!{{< /fragment >}}
+#{{< fragment class="highlight-red" >}}This one can be **highlighted**!{{< /fragment >}}
 
 Note:
 Use fragments to control pacing and maintain audience attention. Each fragment appears on click.
