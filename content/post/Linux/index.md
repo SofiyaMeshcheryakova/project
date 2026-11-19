@@ -1,6 +1,6 @@
 ---
 title: "Прохождение курса на Selectel"
-date: 2026-11-20T19:35:22Z
+date: 2026-11-18T19:35:22Z
 draft: false
 ---
 
